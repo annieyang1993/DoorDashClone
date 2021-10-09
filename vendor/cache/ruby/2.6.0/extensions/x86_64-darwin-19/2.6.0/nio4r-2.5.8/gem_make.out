@@ -1,5 +1,5 @@
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/nio4r-2.5.8/ext/nio4r
-/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-97544-ntbg1g.rb extconf.rb
+/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-7592-fiiz3p.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... no
 checking for linux/io_uring.h... no
@@ -93,4 +93,4 @@ linking shared-object nio4r_ext.bundle
 
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/nio4r-2.5.8/ext/nio4r
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20211008-97544-1hg7tln
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20211008-7592-dk6hln

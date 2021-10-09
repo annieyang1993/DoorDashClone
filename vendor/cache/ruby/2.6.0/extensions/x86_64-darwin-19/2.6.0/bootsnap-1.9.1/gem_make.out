@@ -1,5 +1,5 @@
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
-/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-97544-w5pi85.rb extconf.rb
+/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-7592-1qwvir9.rb extconf.rb
 creating Makefile
 
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
@@ -12,4 +12,4 @@ linking shared-object bootsnap/bootsnap.bundle
 
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20211008-97544-janepi/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20211008-7592-1w0l6ah/bootsnap

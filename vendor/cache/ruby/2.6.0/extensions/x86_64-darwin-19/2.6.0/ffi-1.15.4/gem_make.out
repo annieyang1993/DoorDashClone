@@ -1,5 +1,5 @@
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/ffi-1.15.4/ext/ffi_c
-/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-97544-ns133z.rb extconf.rb
+/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-7592-rx7hbw.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -40,4 +40,4 @@ linking shared-object ffi_c.bundle
 
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/ffi-1.15.4/ext/ffi_c
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20211008-97544-1gmxovh
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20211008-7592-qdq347

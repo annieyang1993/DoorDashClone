@@ -1,5 +1,5 @@
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/bcrypt-3.1.16/ext/mri
-/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-97544-udxywu.rb extconf.rb
+/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-7592-1s7o7nl.rb extconf.rb
 creating Makefile
 
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/bcrypt-3.1.16/ext/mri
@@ -36,4 +36,4 @@ linking shared-object bcrypt_ext.bundle
 
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/bcrypt-3.1.16/ext/mri
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20211008-97544-392r7p
+/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20211008-7592-ca804h

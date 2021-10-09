@@ -1,5 +1,5 @@
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/pg-1.2.3/ext
-/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-97544-a80d0a.rb extconf.rb
+/Users/annieyang/.rbenv/versions/2.6.0/bin/ruby -I /Users/annieyang/.rbenv/versions/2.6.0/lib/ruby/site_ruby/2.6.0 -r ./siteconf20211008-7592-x5p7k3.rb extconf.rb
 checking for pg_config... yes
 Using config values from /Applications/Postgres.app/Contents/Versions/latest/bin/pg_config
 checking for libpq-fe.h... yes
@@ -150,4 +150,4 @@ linking shared-object pg_ext.bundle
 
 current directory: /Users/annieyang/Desktop/DoorDash_Clone_Final/vendor/cache/ruby/2.6.0/gems/pg-1.2.3/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 pg_ext.bundle ./.gem.20211008-97544-8jub7l
+/usr/bin/install -c -m 0755 pg_ext.bundle ./.gem.20211008-7592-pb19ca
