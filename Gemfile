@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+def os_is(re)
+  RbConfig::CONFIG['host_os'] =~ re
+end
+
+
 
 ruby '2.6.0'
 
@@ -35,6 +40,7 @@ gem 'materialize'
 # gem 'capistrano-rails', group: :development
 gem 'webpacker'
 
+gem 'nokogiri', platforms: :ruby, install_if: os_is(/linux/)
 #gem 'bcrypt'
 gem 'jquery-rails'
 

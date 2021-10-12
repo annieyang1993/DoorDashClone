@@ -105,7 +105,7 @@ GEM
     materialize (0.4.5)
       activesupport (~> 5.0)
     method_source (1.0.0)
-    mini_mime (1.1.1)
+    mini_mime (1.1.2)
     minitest (5.14.4)
     msgpack (1.4.2)
     nio4r (2.5.8)
@@ -220,6 +220,7 @@ DEPENDENCIES
   jquery-rails
   listen (>= 3.0.5, < 3.2)
   materialize
+  nokogiri
   pg (>= 0.18, < 2.0)
   pry-rails
   puma (~> 3.11)
