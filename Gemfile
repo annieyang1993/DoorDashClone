@@ -39,7 +39,9 @@ gem 'materialize'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 gem 'webpacker'
+ 
 
+gem 'rake', '~> 13.0.6'
 gem 'nokogiri', :require => RUBY_PLATFORM.include?('linux') && 'rb-inotify'
 #gem 'bcrypt'
 gem 'jquery-rails'
