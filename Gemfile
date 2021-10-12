@@ -40,7 +40,7 @@ gem 'materialize'
 # gem 'capistrano-rails', group: :development
 gem 'webpacker'
 
-gem 'nokogiri', platforms: :ruby, install_if: os_is(/linux/)
+gem 'nokogiri', :require => RUBY_PLATFORM.include?('linux') && 'rb-inotify'
 #gem 'bcrypt'
 gem 'jquery-rails'
 
