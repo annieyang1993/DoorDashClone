@@ -1732,3 +1732,54 @@ Tag.create!(
   restaurant_id: Restaurant.find_by(name: 'Golden Goat Coffee').id,
   tag: 'dessert'
 )
+
+
+Tag.create!(
+  restaurant_id: Restaurant.find_by(name: 'Golden Goat Coffee').id,
+  tag: 'tea'
+)
+
+Tag.create!(
+  restaurant_id: Restaurant.find_by(name: 'Bibble & Sip').id,
+  tag: 'bbt'
+)
+
+Item.create!(
+  item_name: 'Taro Boba',
+  availability: true,
+  restaurant_id: Restaurant.find_by(name: 'Bibble & Sip').id,
+  price: 6.75,
+  section: 'Boba',
+  item_description: '',
+  img: 'Bibble10'
+)
+
+Item.create!(
+  item_name: 'Matcha Boba',
+  availability: true,
+  restaurant_id: Restaurant.find_by(name: 'Bibble & Sip').id,
+  price: 6.25,
+  section: 'Boba',
+  item_description: '',
+  img: 'Bibble11'
+)
+
+Item.create!(
+  item_name: 'Strawberry Boba',
+  availability: true,
+  restaurant_id: Restaurant.find_by(name: 'Bibble & Sip').id,
+  price: 7.25,
+  section: 'Boba',
+  item_description: 'Fixed Sugar and Ice Level',
+  img: 'Bibble12'
+)
+
+Item.create!(
+  item_name: 'Coffee Boba',
+  availability: true,
+  restaurant_id: Restaurant.find_by(name: 'Bibble & Sip').id,
+  price: 7.25,
+  section: 'Boba',
+  item_description: 'Fixed Sugar and Ice Level',
+  img: 'Bibble13'
+)
