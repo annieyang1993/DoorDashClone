@@ -389,7 +389,7 @@ getDistance = function(p1, p2) {
             tags["alcohol"] = 1;
             this.setState({tags: tags})
           this.renderRestaurantList()}}
-            src={'/alcoholic-icon-official.png'}/>
+            src={'/Alcoholic-icon-official.png'}/>
           </div>
           <div className="alcohol-text">
           Alcoholic
