@@ -35,8 +35,10 @@ The technologies used were:
 
 Additional Resources
 --------------------------
-Proposal Wireframes
-Sample State
-Database Schema
+1. Backend Routes: https://github.com/annieyang1993/DoorDashClone/wiki/Backend-Routes
+2. Database Schema: https://github.com/annieyang1993/DoorDashClone/wiki/Database-Schema
+3. Frontend Routes and Components: https://github.com/annieyang1993/DoorDashClone/wiki/Frontend-Routes-and-Components
+4. MVP List: https://github.com/annieyang1993/DoorDashClone/wiki/MVP-List
+5. Sample State: https://github.com/annieyang1993/DoorDashClone/wiki/Sample-State
 
 
