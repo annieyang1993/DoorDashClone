@@ -27,9 +27,9 @@ Features
 Technologies
 -----------------------
 The technologies used were:
-1. React and Redux frontend
-2. Ruby on Rails backend
-3. Heroku
+1. React and Redux on the frontend
+2. Ruby on Rails backend, with BCrypt authentication.
+3. Heroku to deploy the website.
 4. Google Maps API to allow users to locate cafes via map. 
 5. Separate reducers and actions were setup for each state of the application.  
 
